@@ -1,4 +1,4 @@
-package com.enset.chatbot;
+package com.errami.chatbot;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.enset.chatbot", appContext.getPackageName());
+        assertEquals("com.errami.chatbot", appContext.getPackageName());
     }
 }

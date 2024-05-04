@@ -1,0 +1,52 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="256dp"
+    android:height="256dp"
+    android:viewportWidth="256"
+    android:viewportHeight="256">
+  <path
+      android:fillColor="#FF000000"
+      android:pathData="M200,56H56A23.9,23.9 0,0 0,32 80V192a23.9,23.9 0,0 0,24 24H200a23.9,23.9 0,0 0,24 -24V80A23.9,23.9 0,0 0,200 56ZM164,184H92a20,20 0,0 1,0 -40h72a20,20 0,0 1,0 40Z"
+      android:strokeAlpha="0.2"
+      android:fillAlpha="0.2"/>
+  <path
+      android:pathData="M56,56L200,56A24,24 0,0 1,224 80L224,192A24,24 0,0 1,200 216L56,216A24,24 0,0 1,32 192L32,80A24,24 0,0 1,56 56z"
+      android:strokeLineJoin="round"
+      android:strokeWidth="16"
+      android:fillColor="#00000000"
+      android:strokeColor="#000"
+      android:strokeLineCap="round"/>
+  <path
+      android:pathData="M92,144L164,144A20,20 0,0 1,184 164L184,164A20,20 0,0 1,164 184L92,184A20,20 0,0 1,72 164L72,164A20,20 0,0 1,92 144z"
+      android:strokeLineJoin="round"
+      android:strokeWidth="16"
+      android:fillColor="#00000000"
+      android:strokeColor="#000"
+      android:strokeLineCap="round"/>
+  <path
+      android:pathData="M148,144L148,184"
+      android:strokeLineJoin="round"
+      android:strokeWidth="16"
+      android:fillColor="#00000000"
+      android:strokeColor="#000"
+      android:strokeLineCap="round"/>
+  <path
+      android:pathData="M108,144L108,184"
+      android:strokeLineJoin="round"
+      android:strokeWidth="16"
+      android:fillColor="#00000000"
+      android:strokeColor="#000"
+      android:strokeLineCap="round"/>
+  <path
+      android:pathData="M128,56L128,16"
+      android:strokeLineJoin="round"
+      android:strokeWidth="16"
+      android:fillColor="#00000000"
+      android:strokeColor="#000"
+      android:strokeLineCap="round"/>
+  <path
+      android:fillColor="#FF000000"
+      android:pathData="M84,108m-12,0a12,12 0,1 1,24 0a12,12 0,1 1,-24 0"/>
+  <path
+      android:fillColor="#FF000000"
+      android:pathData="M172,108m-12,0a12,12 0,1 1,24 0a12,12 0,1 1,-24 0"/>
+</vector>

@@ -1,4 +1,4 @@
-package com.enset.chatbot;
+package com.errami.chatbot;
 
 import org.junit.Test;
 
